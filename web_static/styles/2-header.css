@@ -1,0 +1,11 @@
+/*
+=============
+Header
+=============
+*/
+header{
+    box-sizing: boder-box;
+    color: #FF0000;
+    height: 70px;
+    width: 100%;
+}
