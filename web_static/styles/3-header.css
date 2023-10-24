@@ -1,0 +1,15 @@
+/*
+===============
+Header
+===============
+*/
+
+header{
+    color: #fff;
+    height: 70px;
+    width: 100%;
+    background-image: url("/AirBnB_Clone/images/logo.png");
+    background-repeat: no-repeat;
+    background-position: 20px center;
+    border-bottom: 1px solid #CCCCCC;
+}
